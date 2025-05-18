@@ -1,3 +1,7 @@
+![License](https://img.shields.io/github/license/VitalinaZlo/VolgaIT_2024?style=flat-square&label=License&color=e5573e)
+![Python](https://img.shields.io/badge/build-3.11-brightgreen?style=flat-square&label=Python&color=52b4e5)
+![Status](https://img.shields.io/badge/build-completed-green?style=flat-square&label=Status&color=3dc322)
+
 Данный проект был создан для второго тура XV Международной цифровой олимпиады «Волга-IT'24» в дисциплине «Искусственный интеллект и анализ данных». Проект занял третье место в полуфинале.
 
 # Задача проекта
